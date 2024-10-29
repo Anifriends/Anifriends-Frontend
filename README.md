@@ -8,6 +8,10 @@
 
 `봉사자`는 도움이 필요한 보호소를 한 번에 모아서 보고, `보호소`는 봉사자의 봉사 이력과 봉사 온도를 통해 신뢰할 수 있는 봉사자의 도움을 받을 수 있는 프로젝트입니다.
 
+[발표 PPT](https://docs.google.com/presentation/d/16ZIXwzYRYbMmJfFVjTNxZ9LndwiMlDsA/edit?usp=sharing&ouid=110305378940213913854&rtpof=true&sd=true)
+
+[시연 영상](https://drive.google.com/file/d/1jQDhBtrApup2l5TmIjVkPDmYFka2tXu7/view?usp=sharing)
+
 ## 🎥 시연영상
 
 ## 🛠️ 기술 스택
@@ -87,8 +91,6 @@
 
 </table>
 
-<img src="https://img.shields.io/badge/zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white">
-
 ## 👫 팀 소개
 
   <table>
@@ -123,6 +125,12 @@
         <td align="center">최원석</td>
         <td align="center">우현지</td>
       </tr>
+       <tr>
+    <td style="width: 150px;"> -추후 추가 예정</td>
+    <td style="width: 150px;"> -추후 추가 예정</td>
+    <td style="width: 150px;"> -추후 추가 예정</td>
+    <td style="width: 150px;"> -추후 추가 예정</td>
+  </tr>
   </table>
 
  <br />
