@@ -1,36 +1,41 @@
-# BE 지원종료
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Carbook&fontAlign=70&fontAlignY=35&color=gradient)
 
-# `Turborepo` Vite starter
+# 🐾 ANI FRIENDS - 동물 보호소와 봉사자의 쉬운 만남
 
-This is an official starter Turborepo.
+## 👫 팀 소개
 
-## Using this example
+  <table>
+      <tr>
+        <td colspan="4" align="center"> FE </td>
+      </tr>
+      <tr>
+        <td align="center">
+            <a href="https://github.com/kutta97">
+            <img src="https://avatars.githubusercontent.com/u/67576476?v=4" width="90">
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/DongjaJ">
+                <img src="https://avatars.githubusercontent.com/u/43432783?v=4" width="90">
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/sukvvon">
+                <img src="https://avatars.githubusercontent.com/u/86291473?v=4" width="90">
+            </a>
+        </td>
+        <td align="center">
+        <a href="https://github.com/Eosdia">
+    <img src="https://avatars.githubusercontent.com/u/46276276?v=4" width="90">
+</a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">양혜진</td>
+        <td align="center">정동환</td>
+        <td align="center">최원석</td>
+        <td align="center">우현지</td>
+      </tr>
+  </table>
 
-Run the following command:
-
-```sh
-npx create-turbo@latest -e with-vite
-```
-
-## What's inside?
-
-This Turborepo includes the following packages and apps:
-
-### Apps and Packages
-
-- `docs`: a vanilla [vite](https://vitejs.dev) ts app
-- `web`: another vanilla [vite](https://vitejs.dev) ts app
-- `ui`: a stub component & utility library shared by both `web` and `docs` applications
-- `eslint-config-custom`: shared `eslint` configurations
-- `tsconfig`: `tsconfig.json`s used throughout the monorepo
-
-Each package and app is 100% [TypeScript](https://www.typescriptlang.org/).
-
-### Utilities
-
-This Turborepo has some additional tools already setup for you:
-
-- [TypeScript](https://www.typescriptlang.org/) for static type checking
-- [ESLint](https://eslint.org/) for code linting
-- [Jest](https://jestjs.io) test runner for all things JavaScript
-- [Prettier](https://prettier.io) for code formatting
+ <br />
