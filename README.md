@@ -1,4 +1,3 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ANI-FRIENDS&fontAlign=70&fontAlignY=35&color=gradient)
 
 # 🐾 ANI FRIENDS - 동물 보호소와 봉사자의 쉬운 만남
 
