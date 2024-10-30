@@ -14,75 +14,142 @@
 
 ## 🎥 시연영상
 
-<table>
-  <tr>
-    <th width="500">영상</th>
-    <th width="500">기능 설명</th>
-  </tr>
-    <tr>
-    <td><img src="https://github.com/user-attachments/assets/3e5e8fb6-58b0-43be-920f-c74724e309dc" alt="search" />  
-    </td>
-    <td>
-      <h3>📋 봉사 목록, 후기 목록 조회</h3>
-      <p>
-        <b>1. 비로그인 사용자 기능</b>
-        <br/>
-        &nbsp;&nbsp;• 보호소들이 작성한 봉사 모집 게시글 조회
-        <br/>
-        &nbsp;&nbsp;• 상단 검색 아이콘으로 모집 게시글 검색
-        <br/>
-        &nbsp;&nbsp;• 봉사일 모집 여부에 따른 필터링 기능
-      </p>
-      <p>
-        <b>2. 상세 페이지 기능</b>
-        <br/>
-        &nbsp;&nbsp;• 봉사 모집 상세 정보 확인
-        <br/>
-        &nbsp;&nbsp;• 보호소 정보 확인
-        <br/>
-        &nbsp;&nbsp;• 보호소 프로필 페이지로 이동 가능
-      </p>
-      <p>
-        <b>3. 보호소 프로필 페이지</b>
-        <br/>
-        &nbsp;&nbsp;• 이전 봉사자들의 후기 확인
-        <br/>
-        &nbsp;&nbsp;• 현재 모집 중인 봉사 게시글 목록 조회
-        <br/>
-        &nbsp;&nbsp;• 게시글 클릭 시 상세 페이지로 이동
-      </p>
-    </td>
-  </tr>
-    <tr>
-    <td> <img src="https://github.com/user-attachments/assets/667e3e7a-fb2c-4a90-81a6-b1f4c0a16b81" alt="look_up" />
-    </td>
-    <td style="padding: 20px; vertical-align: top;">
-      <p>
-        <b>3. 봉사자 마이 페이지</b>
-        <br/>
-        &nbsp;&nbsp;• 신청한 봉사목록
-        <br/>
-        &nbsp;&nbsp;• 작성한 봉사후기
-        <br/>
-        &nbsp;&nbsp;• 게시글 클릭 시 상세 페이지로 이동
-      </p>
-    </td>
-  </tr>
-
-<tr>
-  <td><img src="https://github.com/user-attachments/assets/1a70f271-b493-404f-a7d1-d48c1bbb04da" alt="login" /></td>
-    <td> 봉사 신청 </td>
-  </tr>
-  <tr>
-      <td><img src="https://github.com/user-attachments/assets/b4e860ab-3f53-4656-9889-837dbfd56038" alt="login" /></td>
-      <td> 보호소 앱에서 봉사자 승인, 거절하기, 봉사자 출석 체크하기 </td>
-  </tr>
-  <tr>    
-  <td><img src="https://github.com/user-attachments/assets/a80780aa-4287-4bf7-badb-09b95e84324f" alt="login" /></td>
-    <td> 로그인 </td>
-  </tr>
+<table width="100%">
+ <tr>
+   <th width="50%" align="center" style="background-color: #f8f9fa; padding: 15px;">영상</th>
+   <th width="50%" align="center" style="background-color: #f8f9fa; padding: 15px;">기능 설명</th>
+ </tr>
+ <tr>    
+   <td width="50%" style="padding: 20px;">
+     <img src="https://github.com/user-attachments/assets/a80780aa-4287-4bf7-badb-09b95e84324f" alt="login" width="100%" />
+   </td>
+   <td width="50%" style="padding: 20px; vertical-align: top;">
+     <h3>🔐 로그인</h3>
+     <p>
+       • 이메일/비밀번호를 통한 로그인
+       <br/>
+       • 로그인 상태 유지 기능
+     </p>
+   </td>
+ </tr>
+ <tr>
+   <td width="50%" style="padding: 20px;">
+     <video src="https://github.com/user-attachments/assets/042fc58a-01d6-4b01-aa4d-342c2a53c001" alt="search" width="100%" autoplay muted />
+   </td>
+   <td width="50%" style="padding: 20px; vertical-align: top;">
+     <h3>🔍 비로그인 사용자 기능</h3>
+     <p>
+       <b>1. 봉사 모집 게시글 조회</b>
+       <br/>
+       &nbsp;&nbsp;• 상단 검색 아이콘으로 게시글 검색
+       <br/>
+       &nbsp;&nbsp;• 봉사일 모집 여부에 따른 필터링
+       <br/>
+       &nbsp;&nbsp;• 게시글 클릭 시 상세 페이지로 이동
+     </p>
+     <p>
+       <b>2. 봉사 상세 페이지</b>
+       <br/>
+       &nbsp;&nbsp;• 봉사 모집 정보 확인
+       <br/>
+       &nbsp;&nbsp;• 보호소 정보 확인 및 프로필 페이지 이동
+     </p>
+     <p>
+       <b>3. 보호소 프로필 페이지</b>
+       <br/>
+       &nbsp;&nbsp;• 봉사자들의 후기 조회
+       <br/>
+       &nbsp;&nbsp;• 현재 모집 중인 게시글 목록 확인
+       <br/>
+       &nbsp;&nbsp;• 비로그인 상태에서 봉사 신청 시 로그인 페이지로 이동
+     </p>
+   </td>
+ </tr>
+ <tr>
+   <td width="50%" style="padding: 20px;">
+     <video src="https://github.com/user-attachments/assets/5d5088fe-13b9-4913-ae43-cb3878f1f7e5" width="100%" autoplay muted />
+   </td>
+   <td width="50%" style="padding: 20px; vertical-align: top;">
+     <h3>👤 로그인 사용자 기능</h3>
+     <p>
+       <b>1. 봉사 신청 및 관리</b>
+       <br/>
+       &nbsp;&nbsp;• 봉사 신청 기능
+       <br/>
+       &nbsp;&nbsp;• 마이페이지에서 신청한 봉사 조회
+       <br/>
+       &nbsp;&nbsp;• 봉사 상태 확인 (대기 중/승인 완료/출석 완료)
+     </p>
+     <p>
+       <b>2. 봉사 온도 시스템</b>
+       <br/>
+       &nbsp;&nbsp;• 출석 상태에 따른 온도 변동
+       <br/>
+       &nbsp;&nbsp;• 후기 작성에 따른 온도 변동
+     </p>
+     <p>
+       <b>3. 후기 관리</b>
+       <br/>
+       &nbsp;&nbsp;• 출석 완료된 봉사의 후기 작성
+       <br/>
+       &nbsp;&nbsp;• 작성한 후기 조회/수정/삭제
+     </p>
+     <p>
+       <b>4. 계정 관리</b>
+       <br/>
+       &nbsp;&nbsp;• 계정 정보 수정
+       <br/>
+       &nbsp;&nbsp;• 비밀번호 변경
+       <br/>
+       &nbsp;&nbsp;• 프로필 이미지 변경
+       <br/>
+       &nbsp;&nbsp;• 로그아웃
+     </p>
+   </td>
+ </tr>
+ <tr>
+   <td width="50%" style="padding: 20px;">
+     <video src="https://github.com/user-attachments/assets/0b1b10fc-3f8d-4e1b-85e3-64635d37968f" width="100%" autoplay muted />
+   </td>
+   <td width="50%" style="padding: 20px; vertical-align: top;">
+     <h3>🏥 보호소 관리자 기능</h3>
+     <p>
+       <b>1. 봉사 신청 관리</b>
+       <br/>
+       &nbsp;&nbsp;• 봉사자 신청 현황 확인
+       <br/>
+       &nbsp;&nbsp;• 신청 승인/거절 기능
+       <br/>
+       &nbsp;&nbsp;• 모집 게시글 마감 처리
+     </p>
+     <p>
+       <b>2. 출석 관리</b>
+       <br/>
+       &nbsp;&nbsp;• 봉사자 출석 체크
+       <br/>
+       &nbsp;&nbsp;• 출석 상태에 따른 봉사 온도 반영
+     </p>
+     <p>
+       <b>3. 모집글 관리</b>
+       <br/>
+       &nbsp;&nbsp;• 새로운 모집글 작성
+       <br/>
+       &nbsp;&nbsp;• 등록된 모집글 조회
+       <br/>
+       &nbsp;&nbsp;• 모집글 삭제
+     </p>
+     <p>
+       <b>4. 봉사자 관리</b>
+       <br/>
+       &nbsp;&nbsp;• 봉사 후기 조회
+       <br/>
+       &nbsp;&nbsp;• 봉사자 프로필 확인
+       <br/>
+       &nbsp;&nbsp;• 봉사자의 봉사 이력 조회
+     </p>
+   </td>
+ </tr>
 </table>
-
 
 ## 🛠️ 기술 스택
 
